@@ -1,4 +1,4 @@
-# Selamat Datang di Github Kuhong-V4 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+# Selamat Datang di Github RULZT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
 
 ## Ada Bug, Erorr, atau mau Request? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
@@ -12,13 +12,13 @@ Atau Bisa Lewat Issue :)
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/RC047/YUKI-BOT
+> cd YUKI-BOT
 > npm install
 ```
 ###### Run
 ```bash
-> node RendyGans
+> node RULTZ
 ```
 ---------
 
@@ -28,8 +28,8 @@ Atau Bisa Lewat Issue :)
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/RC047/YUKI-BOT
+> cd YUKI-BOT
 > npm install
 ```
 ###### Run
